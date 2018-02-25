@@ -1,0 +1,48 @@
+company:
+  name: Polygraph
+  logo: polygraph.png
+
+tags:
+  - VR
+  - Health Tech
+  - Academia
+
+product_narrative: |
+A crowd sourced platform that brings together citizen volunteer journalists to make a positive impact on the fake news problem. 
+The platform will provide tools to the journalists to help them determine veracity of news stories and provide the results to end users through a browser plug in
+team:
+  picture: E383E868-.jpg
+  roster:
+  - name: Daniel Terry
+    email: dpt53@cornell.edu
+    picture: daniel.jpg
+    program: ORIE
+  - name: Sid Sugathan
+    email: ss3762@cornell.edu 
+    picture: sid.png
+    program: MBA
+  - name: Aneesh Kode
+    email: ak2422@cornell.edu 
+    picture: aneesh.png
+    program: MBA
+  - name: Heidi Fan
+    email: hf322@cornell.edu 
+    picture: heidi.png
+    program: LLM
+  - name: Betty Chou
+    email: fc332@cornell.edu 
+    picture: betty.png
+    program: HM
+    
+    
+    
+
+assets:
+- title: Sprint 1
+  url: http://cornelltech.io/spice-up-your-personal-privacy-with-pepr/
+- title: Sprint 2
+  url: http://cornelltech.io/health-apps-on-steroids/
+- title: Sprint 3
+  url: http://cornelltech.io/storybot/
+- title: Final
+url: http://cornelltech.io/storybot/
