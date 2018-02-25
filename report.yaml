@@ -3,15 +3,15 @@ company:
   logo: polygraph.png
 
 tags:
-  - VR
-  - Health Tech
-  - Academia
+  - Journalism
+  - ML
+  - Fake News
 
 product_narrative: |
 A crowd sourced platform that brings together citizen volunteer journalists to make a positive impact on the fake news problem. 
 The platform will provide tools to the journalists to help them determine veracity of news stories and provide the results to end users through a browser plug in
 team:
-  picture: E383E868-.jpg
+  picture: team.jpg
   roster:
   - name: Daniel Terry
     email: dpt53@cornell.edu
@@ -32,7 +32,7 @@ team:
   - name: Betty Chou
     email: fc332@cornell.edu 
     picture: betty.png
-    program: HM
+    program: HT
     
     
     
